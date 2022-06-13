@@ -8,6 +8,10 @@
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
 
+     <label for="uemail"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="uemail" required>
+   
+    <br> 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password here" name="psw" required>
     <br>
