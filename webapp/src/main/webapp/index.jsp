@@ -5,15 +5,15 @@
 
   <div class="container">
     <label for="uname"><b>Username</b></label>
-    <input type="text" placeholder="Enter Username here" name="uname" required>
+    <input type="text" placeholder="Enter Username Here" name="uname" required>
     <br>
 
      <label for="uemail"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email here" name="uemail" required>
+    <input type="text" placeholder="Enter Email Here" name="uemail" required>
    
     <br> 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password here" name="psw" required>
+    <input type="password" placeholder="Enter Password Here" name="psw" required>
     <br>
     <button type="submit">Login</button>
     <label>
