@@ -15,6 +15,13 @@
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password Here" name="psw" required>
     <br>
+
+    <br>
+    <label for="mob"><b>Mobile</b></label>
+    <input type="text" placeholder="Enter your mobile" name="mob" required>
+    <br>
+
+
     <button type="submit">Login</button>
     <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
